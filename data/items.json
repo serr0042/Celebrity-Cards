@@ -1,0 +1,18 @@
+{"items":[
+	{"id":1, "full_name":"Jessica Biel", "age":33 , "home_town":"Ely, Minnesota, United States", "net_worth":18000000.00 , "img":"jessica_biel.jpg"},
+ 	{"id":2, "full_name": "Julianne Hough", "age":27, "home_town":"Orem, Utah, United States", "net_worth": 7000000.00, "img":"julianne_hough.jpg"},
+	{"id":3, "full_name":"Mila Kunis", "age":32, "home_town":"Chernivtsi, Ukraine", "net_worth": 30000000.00, "img":"mila_kunis.jpg"},
+	{"id":4, "full_name":"Kristen Bell", "age":35, "home_town":"Huntington Woods, Michigan, United States", "net_worth":16000000.00, "img":"kristen_bell.jpg"},
+	{"id":5, "full_name":"Amanda Seyfried", "age":29, "home_town":"Allentown, Pennsylvania, United States", "net_worth":10000000.00, "img":"amanda_seyfried.jpg"},
+	{"id":6, "full_name":"Zooey Deschanel", "age":35, "home_town":"Los Angeles, California, United States", "net_worth":18000000.00, "img":"zooey_deschanel.jpg"},
+	{"id":7, "full_name":"Lea Michele", "age":29, "home_town":"The Bronx, New York City, New York, United States", "net_worth":5500000.00, "img":"lea_michele.jpg"},
+	{"id":8, "full_name":"Halle Berry", "age":49, "home_town":"Cleveland, Ohio, United States", "net_worth":70000000.00, "img":"halle_berry.jpg"},
+	{"id":9, "full_name":"Viola Davis", "age":50, "home_town":"St. Matthews, South Carolina, United States", "net_worth":3000000.00, "img":"viola_davis.jpg"},
+	{"id":10, "full_name":"Sofia Vergara", "age":43, "home_town":"Barranquilla, Colombia", "net_worth":100000000.00, "img":"sofia_vergara.jpg"},
+	{"id":11, "full_name":"Tina Fey", "age":45, "home_town":"Upper Darby, Pennsylvania, United States", "net_worth":45000000.00, "img":"tina_fey.jpg"},
+	{"id":12, "full_name":"Beyonce Knowles", "age":34, "home_town":"Houston, Texas, United States", "net_worth":450000000.00, "img":"beyonce_knowles.jpg"},
+	{"id":13, "full_name":"Natalie Portman", "age":34, "home_town":"Jerusalem", "net_worth":54000000.00, "img":"natalie_portman.jpg"},
+	{"id":14, "full_name":"Eva Longoria", "age":40, "home_town":"Corpus Christi, Texas, United States", "net_worth":35000000.00, "img":"eva_longoria.jpg"},
+	{"id":15, "full_name":"Stacey Dash", "age":48, "home_town":"The Bronx, New York City, New York, United States", "net_worth":8000000.00, "img":"stacey_dash.jpg"}
+
+]}
